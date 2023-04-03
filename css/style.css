@@ -3,3 +3,15 @@
     margin: 0;
     box-sizing: border-box;
  }
+
+.div-testa{
+    background-image: url("../img/pattern.png");
+    background-color: RGB(78, 160, 225);
+}
+
+img{
+    width: 220px;
+    height: 170px;
+    padding-top: 80px;
+    
+}
