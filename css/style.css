@@ -1,4 +1,4 @@
-*{
+.conteiner{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -10,7 +10,7 @@
     margin-bottom: 30px;
 }
 
-img{
+.img-head{
     width: 220px;
     height: 170px;
     padding-top: 80px;
@@ -30,4 +30,13 @@ img{
 
 #booleaner{
     color: rgb(33, 169, 229);
+}
+
+.photo-desc{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.evidenziato{
+    background-color: yellow;
 }
