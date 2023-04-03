@@ -1,27 +1,25 @@
-/*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
- }*/
 
  .conteiner{
     width: 1200px; 
     margin: auto;
  }
 
-.div-testa{
-    background-image: url("../img/pattern.png");
-    background-color: RGB(78, 160, 225);
-    margin-bottom: 30px;
-    padding: 0;
+header{
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
-.img-head{
+.div-testa{
+    background-image: url("../img/pattern.png");
+    background-color: RGB(78, 160, 225);
+}
+
+#img-head{
     width: 220px;
     height: 170px;
     padding-top: 80px;
+    padding-left: 315px;
     
 }
 
