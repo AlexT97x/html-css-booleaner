@@ -7,6 +7,7 @@
 .div-testa{
     background-image: url("../img/pattern.png");
     background-color: RGB(78, 160, 225);
+    margin-bottom: 30px;
 }
 
 img{
@@ -14,4 +15,19 @@ img{
     height: 170px;
     padding-top: 80px;
     
+}
+
+.integrazione-titolo{
+    color: gray;
+    margin-top: 5px;
+
+}
+
+.integrazione-titolo2{
+    color: gray;
+
+}
+
+#booleaner{
+    color: rgb(33, 169, 229);
 }
