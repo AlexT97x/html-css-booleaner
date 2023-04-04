@@ -6,13 +6,11 @@
  }
 /*Fine conteiner per gestione centramento della pagina*/
 
-/*padding dell'header*/
-header{
+.testa-pag{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-/* fine padding dell'header*/
 
 /*Gestione stile titolo*/
 h1{
